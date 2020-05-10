@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>maflow.png</file>
+    </qresource>
+</RCC>
